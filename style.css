@@ -33,3 +33,41 @@ nav{
     font-size: 13px;
     font-weight: 600;
 }
+.header{
+    display: flex;
+    margin-top: 100px;
+}
+.half-width{
+    width: 50%;
+}
+.header-content{
+    margin-top: 50px;
+    padding: 20px;
+    padding-right: 40px;
+}
+.header-content p{
+    margin-bottom: 30px;
+}
+.header-content h1 ,h2{
+    font-size: 40px;
+
+}
+.orange{
+    color: orange;
+}
+ .frist-pic{
+    width: 90%;
+    height: 100%;
+    border-radius: 50%;
+
+} 
+
+.header-pic img{
+    
+}
+.btn{
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    text-decoration: none;
+    border-radius: 5px;
+}
